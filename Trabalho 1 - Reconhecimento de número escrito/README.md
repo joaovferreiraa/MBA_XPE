@@ -1,0 +1,1 @@
+# Trabalho 1 - Reconhecimento de número escrito
