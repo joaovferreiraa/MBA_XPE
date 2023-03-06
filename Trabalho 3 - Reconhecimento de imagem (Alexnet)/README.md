@@ -1,0 +1,1 @@
+# Trabalho 3 - Reconhecimento de imagem com Alexnet
